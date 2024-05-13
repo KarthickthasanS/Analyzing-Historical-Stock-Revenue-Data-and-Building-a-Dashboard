@@ -1,1 +1,3 @@
 # Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+
+This project involves analyzing historical stock revenue data using Python and creating an interactive dashboard to visualize the insights. The dataset includes information on stock prices and revenue for various companies. Python libraries such as Pandas and NumPy are used for data analysis, while Plotly and Dash are employed for dashboard creation. The project aims to provide a comprehensive analysis of the data, including statistical analysis and machine learning predictions for future stock prices based on historical trends.
